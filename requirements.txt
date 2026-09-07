@@ -1,0 +1,2 @@
+streamlit>=1.40
+SpeechRecognition[pocketsphinx]>=3.14
